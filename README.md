@@ -1,1 +1,1 @@
-# Blockchain project with Solidity and NFTs
+## Blockchain project with Solidity and NFTs
